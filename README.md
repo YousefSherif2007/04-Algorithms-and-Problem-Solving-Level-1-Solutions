@@ -16,7 +16,7 @@ In this course, I solved the **same 50 problems again using functions and proced
 
 ## Repository Structure
 - `Solutions/` – C++ source code for the 50 problems
-- `Certificate/` – my course completion certificate
+- `certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf` – my course completion certificate
 
 ## Tools
 - Language: C++
