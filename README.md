@@ -23,4 +23,4 @@ In this course, I solved the **same 50 problems again using functions and proced
 - IDE: Visual Studio
 
 ## Certificate
-Completed this course and received the certificate (see the `Certificate` folder).
+Completed this course and received the certificate: [View Certificate](certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf)
